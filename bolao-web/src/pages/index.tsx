@@ -15,7 +15,7 @@ interface HomeProps {
   guessesCount: number;
   usersCount: number;
 }
-
+//teste
 export default function Home(props: HomeProps) {
   const [poolTitle, setPoolTitle] = useState("");
 
